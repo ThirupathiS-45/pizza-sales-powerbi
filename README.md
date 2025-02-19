@@ -65,7 +65,7 @@ This Power BI project provides a **comprehensive analysis of pizza sales** over 
 ## 📥 How to Download & Run
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/pizza-sales-powerbi.git
+   git clone https://github.com/ThirupathiS-45/pizza-sales-powerbi.git
    ```
 2. Open **Power BI Desktop**.
 3. Load the **Pizza Sales Report (.pbix file)**.
